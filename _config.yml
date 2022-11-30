@@ -1,7 +1,8 @@
 ### your site title here
 
 title: Pádraig Daly
-description: PhD Pure Mathematics | University of Waterloo | Institute for Quantum Computing
+description: PhD Pure Mathematics | University of Waterloo  
+Institute for Quantum Computing
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
